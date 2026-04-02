@@ -111,3 +111,7 @@ docs/                  # Reference materials (do not import)
 
 This project can place real trades. Use `DRY_RUN=true` while testing and review
 your exchange settings before running live.
+
+## Mirror Notice
+
+This repository is a mirror of the original project. Original authorship and commit history are preserved.
